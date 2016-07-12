@@ -10,9 +10,9 @@ class Upload {
 
 
 	/**
-	 * Default directory persmissions (destination dir)
+	 * Default directory permissions (destination dir)
 	 */
-	protected $default_permissions = 750;
+	protected $default_permissions = 0750;
 
 
 	/**
